@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Listas
 {
@@ -35,7 +36,7 @@ namespace Listas
 
         public override string ToString()
         {
-            return "ID: " + Id + ", Name: " + Name + ", Salary: " + Salary;
+            return "ID: " + Id + ", Name: " + Name + ", Salary: " + Salary.ToString("F2",CultureInfo.InvariantCulture);
         }
 
         }
