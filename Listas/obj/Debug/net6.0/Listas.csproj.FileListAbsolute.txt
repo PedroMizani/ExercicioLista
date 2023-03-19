@@ -1,0 +1,15 @@
+D:\PROJETOS CS\Listas\Listas\bin\Debug\net6.0\Listas.exe
+D:\PROJETOS CS\Listas\Listas\bin\Debug\net6.0\Listas.deps.json
+D:\PROJETOS CS\Listas\Listas\bin\Debug\net6.0\Listas.runtimeconfig.json
+D:\PROJETOS CS\Listas\Listas\bin\Debug\net6.0\Listas.dll
+D:\PROJETOS CS\Listas\Listas\bin\Debug\net6.0\Listas.pdb
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.csproj.AssemblyReference.cache
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.AssemblyInfoInputs.cache
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.AssemblyInfo.cs
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.csproj.CoreCompileInputs.cache
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.dll
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\refint\Listas.dll
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.pdb
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\Listas.genruntimeconfig.cache
+D:\PROJETOS CS\Listas\Listas\obj\Debug\net6.0\ref\Listas.dll
